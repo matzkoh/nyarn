@@ -1,0 +1,25 @@
+{
+  "name": "@matzkoh/nyarn",
+  "description": "Good bye package-lock.json on project using yarn.",
+  "version": "1.0.0",
+  "author": "matzkoh <matzkoh@gmail.com>",
+  "bin": {
+    "nyarn": "bin/nyarn"
+  },
+  "bugs": {
+    "url": "https://github.com/matzkoh/nyarn/issues"
+  },
+  "files": [
+    "bin"
+  ],
+  "homepage": "https://github.com/matzkoh/nyarn#readme",
+  "keywords": [
+    "npm",
+    "yarn"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matzkoh/nyarn.git"
+  }
+}
