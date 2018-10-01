@@ -1,8 +1,7 @@
 {
-  "name": "@matzkoh/nyarn",
+  "name": "nyarn",
   "description": "Good bye package-lock.json on project using yarn.",
   "version": "1.0.0",
-  "author": "matzkoh <matzkoh@gmail.com>",
   "bin": {
     "nyarn": "bin/nyarn"
   },
