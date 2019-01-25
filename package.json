@@ -1,7 +1,7 @@
 {
   "name": "nyarn",
-  "description": "Good bye package-lock.json on project using yarn.",
-  "version": "1.0.0",
+  "description": "A shell alias that prevent developers from mistakenly installing packages. (npm <=> yarn <=> lerna)",
+  "version": "1.1.0",
   "bin": {
     "nyarn": "bin/nyarn"
   },
@@ -13,8 +13,11 @@
   ],
   "homepage": "https://github.com/matzkoh/nyarn#readme",
   "keywords": [
+    "lerna",
+    "monorepo",
     "npm",
-    "yarn"
+    "yarn",
+    "yarnpkg"
   ],
   "license": "MIT",
   "repository": {
